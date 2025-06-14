@@ -1,16 +1,33 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kriti Priya</h1>
+<h3 align="center">A passionate Software Developer | Pythonista | DSA Learner</h3>
 
-<!--
-**11kriti/11kriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💼 **Currently Working At:**
+- 🏢 Associate Software Engineer @ Accenture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Previous Experience:**
+- 💻 Software Development Engineer @ Amazon
+
+🚀 **Skills:**
+- Languages: `Python`, `C++`,`Java`, `SQL`, `HTML`, `CSS`, `JavaScript`
+- Tools: `Snowflake`, `Git`, `Oracle APEX`, `PL/SQL`, `PySpark`
+- Cloud Platform : `Oracle Cloud Infrastructure (OCI)`, `Databricks`, `AWS`
+- Concepts: `Data Structures`, `OOP`, `Database Design`, `Web Development`
+
+🧠 **Projects:**
+- 🎧 [Music Streaming App](#)
+- ☀️ [Weather Forecasting Site](#)
+- ✅ [ToDo App (Flask)](#)
+- 💰 [Razorpay UI Clone (Tailwind)](#)
+- 🧾 [Striver A2Z DSA Solutions](https://github.com/your-username/Striver-A2Z-DSA-Sheet)
+
+
+📫 **How to reach me:**
+- LinkedIn: https://www.linkedin.com/in/kriti-priya-0149a3226/
+- Email: `kritipriya119@gmail.com`
+
+---
+
+> "Code, Learn, Repeat 🔁 | Building 1% every day 💡"
