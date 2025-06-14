@@ -25,7 +25,7 @@
 
 
 📫 **How to reach me:**
-- LinkedIn: https://www.linkedin.com/in/kriti-priya-0149a3226/
+- LinkedIn: https://www.linkedin.com/in/kriti-priya-0149a3226/_(#)
 - Email: `kritipriya119@gmail.com`
 
 ---
