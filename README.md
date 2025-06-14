@@ -16,13 +16,6 @@
 - Cloud Platform : `Oracle Cloud Infrastructure (OCI)`, `Databricks`, `AWS`
 - Concepts: `Data Structures`, `OOP`, `Database Design`, `Web Development`
 
-🧠 **Projects:**
-- 🎧 [Music Streaming App](#)
-- ☀️ [Weather Forecasting Site](#)
-- ✅ [ToDo App (Flask)](#)
-- 💰 [Razorpay UI Clone (Tailwind)](#)
-- 🧾 [Striver A2Z DSA Solutions](https://github.com/your-username/Striver-A2Z-DSA-Sheet)
-
 
 📫 **How to reach me:**
 - LinkedIn: https://www.linkedin.com/in/kriti-priya-0149a3226/_(#)
