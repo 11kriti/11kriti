@@ -8,7 +8,7 @@
 - 🏢 Associate Software Engineer @ Accenture
 
 🎯 **Previous Experience:**
-- 💻 Software Development Engineer @ Amazon
+- 💻 Software Development Engineer Intern @ Amazon
 
 🚀 **Skills:**
 - Languages: `Python`, `C++`,`Java`, `SQL`, `HTML`, `CSS`, `JavaScript`
